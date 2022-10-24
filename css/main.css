@@ -96,7 +96,7 @@ ul {
   width: 350px;
 }
 .us {
-  flex: 1;
+  max-width:400px;
   padding: 8px;
 }
 .us p {
