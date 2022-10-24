@@ -19,7 +19,7 @@ ul {
   outline: none;
 }
 .main {
-  width: 1000px;
+  width: 1100px;
   padding-left: 15px;
   padding-right: 15px;
   margin-left: auto;
@@ -162,7 +162,6 @@ ul {
   justify-content: space-between;
 }
 .feat {
-  width: calc(100% / 3);
   display: flex;
   justify-content: space-around;
 }
