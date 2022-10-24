@@ -162,32 +162,39 @@ ul {
   justify-content: space-between;
 }
 .feat {
+   width: calc(100% / 3);
   display: flex;
   justify-content: space-around;
 }
 .feat img {
   max-width: 120px;
-  padding: 15px;
+  padding: 12px;
+}
+.feat .box {
+  padding: 10px;
 }
 .feat .box h1 {
   color: var(--dark-grayish-blue);
   opacity: 0.2;
   margin-bottom: 0;
 }
-.feat .box h4 {
+.feat .box h5 {
   transition: 0.3s;
   margin-bottom: 0;
 }
-.feat .box h4 a {
+.feat .box h5 a {
   color: var(--very-dark-blue);
 }
-.feat .box h4 a:hover {
+.feat .box h5 a:hover {
   color: var(--soft-red);
 }
 .feat .box p {
   color: var(--dark-grayish-blue);
 }
 @media (max-width: 576px) {
+  .main {
+    width: 350px;
+  }
   .navbar {
     margin-bottom: 0;
     padding: 20px 5px 0;
