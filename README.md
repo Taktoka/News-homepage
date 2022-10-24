@@ -1,4 +1,3 @@
-# News-homepage
 ## Table of contents
 
 - [Overview](#overview)
@@ -20,16 +19,18 @@
 
 ### Links
 
-- Solution URL: [## Table of contents
+- Solution URL: [https://github.com/Taktoka/News-homepage.git](https://github.com/Taktoka/News-homepage.git)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
-- [Overview](#overview)
+## My process
 
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+### Built with
 
-- [My process](#my-process)
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- JavaScript
 
-  - [Built with](#built-with)
+## Author
 
-- [Author](#author)
-
+- Frontend Mentor - [@Heba](https://www.frontendmentor.io/profile/Heba)
