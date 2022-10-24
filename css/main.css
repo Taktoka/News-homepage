@@ -18,9 +18,12 @@ ul {
 :focus {
   outline: none;
 }
-.container {
+.main {
+  width: 1000px;
   padding-left: 15px;
   padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
   background-color: var(--off-white);
 }
 .navbar {
