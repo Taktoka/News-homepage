@@ -20,7 +20,7 @@
 ### Links
 
 - Solution URL: [https://github.com/Taktoka/News-homepage.git](https://github.com/Taktoka/News-homepage.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://news-homepage-iota.vercel.app/](https://news-homepage-iota.vercel.app/)
 
 ## My process
 
