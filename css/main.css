@@ -112,8 +112,9 @@ ul {
   border: none;
   padding: 10px 25px;
   transition: 0.3s;
-   cursor: pointer;
+  cursor: pointer;
   width: 100px;
+  margin-top:30px;
 }
 .us .btn:hover {
   background-color: var(--very-dark-blue);
@@ -133,7 +134,7 @@ ul {
   margin-bottom: 35px;
 }
 .new .box {
-  margin: 40px 0;
+  margin: 30px 0;
 }
 .new .box:not(:last-of-type) {
   border-bottom: 1px solid var(--grayish-blue);
@@ -149,8 +150,7 @@ ul {
   color: var(---soft-orange);
 }
 .new .box p {
-  margin-top: 15px;
-  margin-bottom: 30px;
+  margin:15px 0;
   font-size: 14px;
   color: var(--grayish-blue);
   line-height: 1.5;
